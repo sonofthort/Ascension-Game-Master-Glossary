@@ -203,6 +203,6 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __War of Shadows (expansion)__
   - A game expansion.
 
-# Feature Changes 
+# Future Changes 
 - Indicate for which expansion a particular glossary term relates, if it is only applicable to a single or set of expansions.
 - Add meaningful descriptions for each game expansion definition.

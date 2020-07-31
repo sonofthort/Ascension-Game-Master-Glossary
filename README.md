@@ -13,7 +13,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Banish__ (_action_)
   - When a card is banished, it is placed in the Void. Always available cards and starting deck cards do not go to the Void when banished. Starting deck cards are set aside outside the game and always available cards are put back in their appropriate always available zone when banished.
 - __Card__
-  - A rectangular thing with a name and other attributes. One of the base units of Ascension. Some cards are playable and may be added to a player's deck, and other cards have special purpose and exist outside of player decks.
+  - A rectangular object with a name and other attributes. One of the base units of Ascension. Some cards are playable and may be added to a player's deck, and other cards have special purpose and exist outside of player decks.
 - __Center Row Effect__
   - Cards in the center deck which feature a black border with yellow lightning. Cards with this border have effects that are active while they are in the center row. The effects usually relate to a change in how a card is acquired, so make sure to read the card carefully when you see one in the center row.
 - __Champion__
@@ -154,12 +154,12 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Ongoing Trophy
 - __Keystones__ (_resource_)
   - Keystones work similarly to other resources, like Runes and Power, but are used to acquire and activate Temples. When a card gives a player a Keystone, that player can use the Keystone to gain control of the corresponding Temple. If a player already has a Temple, the player can use the appropriate Keystone to active the ability of their Temple and gain control of the Temple of Immortality.
-  - Death Keystone
+  - __Death Keystone__
     - (_Depicted by a brown skull icon_) When you gain a Death Keystone, you may spend it to take one of the following actions:
       - Gain control of the Temple of Death. If another player already controls it, you may take it from them.
       - If you already control the Temple of Death, gain control of the Temple of Immortality and you may banish a card from your hand or discard pile.
       - If you already control the Temple of Death and the Temple of Immortality, you may banish a card from your hand or discard pile.
-  - Life Keystone
+  - __Life Keystone__
     - (_Depicted by a green tree icon_) When you gain a Life Keystone, you may spend it to take one of the following actions:
       - Gain control of the Temple of Life. If another player already controls it, you may take it from them.
       - If you already control the Temple of Life, gain control of the Temple of Immortality and gain 2 Runes.
@@ -273,4 +273,3 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - _War is Upon Us!_
   - Light and Dark Cards
   - Dual Cost Cards
-  

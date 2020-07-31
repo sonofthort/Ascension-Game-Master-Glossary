@@ -21,19 +21,19 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Cost__
   - The cost in Runes to acquire a card from the center row. Indicated by a Rune icon in the upper right hand corner of a card.
 - __Crew (resource)__
-  - (Depicted by an anchor icon) Crew is your ship's resource. When your ship is on the space of a card that has cost equal to or less than it's Crew, you may spend Crew equal to the card's cost to acquire or defeat the card. Crew count cannot exceed 9.
+  - (_Depicted by an anchor icon_) Crew is your ship's resource. When your ship is on the space of a card that has cost equal to or less than it's Crew, you may spend Crew equal to the card's cost to acquire or defeat the card. Crew count cannot exceed 9.
 - __Crew Dial__
   - The Crew Dial indicates the number of Crew a player has gathered. It will be visible on a player's Ship Token, above an anchor icon.
 - __Dark Card__
-  - Cards with a moon icon in the upper right hand corner. Gains a bonus if it is currently Night time.
+  - Cards with a moon icon in the upper right hand corner. Gains a bonus if it is currently Night.
 - __Darkness Unleashed (expansion)__
   - A game expansion.
 - __Dawn of Champions (expansion)__
   - A game expansion.
 - __Day__
-  - A global game state which can affect Light cards. If there are more Light cards in the center row than there are Dark cards, then it is Day time.
+  - A global game state which can affect Light cards. If there are more Light cards in the center row than there are Dark cards, then it is Day.
 - __Day (keyword)__
-  - Gain the Day effect if it is currently Day time.
+  - Gain the Day effect if it is currently Day.
 - __Deck__
   - The entire collection of cards which are considered to be in possession by a player. Cards from a player's deck may be in Hand, in their Discard Pile, in their Draw Pile, or may be face up in front of the player while in use (such as with Construct cards).
 - __Defeat (action)__
@@ -83,7 +83,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Energize (keyword)__
   - Cards with Energize have additional effects if you've gained enough Energy on the turn you use them. Multiple Energize cards can be activated with the same Energy, since Energy is not spent.
 - __Energy (resource)__
-  - (Depicted by a blue/electric square icon) Energy is a threshold resource used to activate additional effects on cards with Energize.
+  - (_Depicted by a blue/electric square icon_) Energy is a threshold resource used to activate additional effects on cards with Energize.
 - __Enlightened (faction)__
   - A card faction. Enlightened cards tend to provide card draw, and provide effects which help defeat and acquire cards in the center row (without paying Power or Runes).
 - __Event__
@@ -103,20 +103,20 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Hero (card)__
   - Heroes are the allies you can acquire to aid you in your quest to save the realm of New Vigil. When you play a Hero from your hand, you gain the effect listed on the card, and then it goes to your discard pile at the end of your turn.
 - __Honor (resource)__
-  - (Depicted by a five-point star icon) Honor is the key to victory in Ascension. Whoever earns the most Honor wins the game. Honor can be obtained from the shared Honor pool (typically by defeating monsters, or by playing cards which cause Honor gain). Honor is gained from each card in a player's deck, and is tallied at the end of the game. Each card has an Honor amount depicted by a star icon and number in the bottom left hand corner of a card.
+  - (_Depicted by a five-point star icon_) Honor is the key to victory in Ascension. Whoever earns the most Honor wins the game. Honor can be obtained from the shared Honor pool (typically by defeating monsters, or by playing cards which cause Honor gain). Honor is gained from each card in a player's deck, and is tallied at the end of the game. Each card has an Honor amount depicted by a star icon and number in the bottom left hand corner of a card.
 - __Insight (resource)__
-  - (Depicted by an orange oval icon) Insight is a unique resource used to activate card effects like Transform, Phantasm and Dreambind. Unlike other resources, you do not lose unspent Insight at the end of your turn.
+  - (_Depicted by an orange oval icon_) Insight is a unique resource used to activate card effects like Transform, Phantasm and Dreambind. Unlike other resources, you do not lose unspent Insight at the end of your turn.
 - __Immortal Heroes (expansion)__
   - A game expansion.
 - __Keystones (resource)__
   - Keystones work similarly to other resources, like Runes and Power, but are used to acquire and activate Temples. When a card gives a player a Keystone, that player can use the Keystone to gain control of the corresponding Temple. If a player already has a Temple, the player can use the appropriate Keystone to active the ability of their Temple and gain control of the Temple of Immortality.
   - Death Keystone
-    - (Depicted by a brown skull icon) When you gain a Death Keystone, you may spend it to take one of the following actions:
+    - (_Depicted by a brown skull icon_) When you gain a Death Keystone, you may spend it to take one of the following actions:
       - Gain control of the Temple of Death. If another player already controls it, you may take it from them.
       - If you already control the Temple of Death, gain control of the Temple of Immortality and you may banish a card from your hand or discard pile.
       - If you already control the Temple of Death and the Temple of Immortality, you may banish a card from your hand or discard pile.
   - Life Keystone
-    - (Depicted by a green tree icon) When you gain a Life Keystone, you may spend it to take one of the following actions:
+    - (_Depicted by a green tree icon_) When you gain a Life Keystone, you may spend it to take one of the following actions:
       - Gain control of the Temple of Life. If another player already controls it, you may take it from them.
       - If you already control the Temple of Life, gain control of the Temple of Immortality and gain 2 Runes.
       - If you already control the Temple of Life and the Temple of Immortality, gain 2 runes.
@@ -125,7 +125,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Lifebound (faction)__
   - A card faction. Lifebound cards tends to provide Runes and Honor, and utilize Unite heavily.
 - __Light Card__
-  - Cards with a sun icon in the upper right hand corner. Gains a bonus if it is currently Day time.
+  - Cards with a sun icon in the upper right hand corner. Gains a bonus if it is currently Day.
 - __Mechana (faction)__
   - A card faction. Construct-heavy. Constructs tend to have very high Honor value. Mechana heroes tend to gain bonuses related to constructs which are in play.
 - __Monster (card)__
@@ -137,21 +137,21 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Name__
   - The name of a card. Indicated on the top of a card. Some cards interact with other cards with specific names.
 - __Night__
-  - A global game state which can affect Dark cards. If there are more Dark cards in the center row than there are Light cards, then it is Night time.
+  - A global game state which can affect Dark cards. If there are more Dark cards in the center row than there are Light cards, then it is Night.
 - __Night (keyword)__
-  - Gain the Night effect if it is currently Night time.
+  - Gain the Night effect if it is currently Night.
 - __Ongoing (keyword)__
   - After a card with Ongoing is acquired or defeated, it remains in front of you and its effect is permanent unless banished.
 - __Phantasm (keyword)__
   - Heroes with Phantasm can be played during your turn directly from the center row if you pay the Phantasm cost. When you do, you gain the effect of the card as though it was played from your hand and then banish it to the Void.
 - __Power (resource)__
-  - (Depicted by a red circular icon containing a sword) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
+  - (_Depicted by a red circular icon containing a sword_) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
 - __Raid (keyword)__
   - When you Raid, take control of a Treasure another player controls. Unless otherwise stated, Raid effects can only be used to take Treasure when your Ship Dial is on the same space as the opposing player.
 - __Rally (keyword)__
   - Rally is an effect that only occurs when a card in the center row is replaced. When an effect tells you to Rally, it will indicate a characteristic, such as faction, that allows you to acquire or defeat the next card that enters the center row if it has the indicated characteristic.
 - __Rarity__
-  - (Depicted by a set of white circles on the bottom left hand corner of a card) Indicates how many copies of a card are present in the center deck. The number of white circles indicates the count.
+  - (_Depicted by a set of white circles on the bottom left hand corner of a card_) Indicates how many copies of a card are present in the center deck. The number of white circles indicates the count.
 - __Realms Unraveled (expansion)__
   - A game expansion.
 - __Recur (keyword)__
@@ -163,7 +163,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Rise of Vigil (expansion)__
   - A game expansion.
 - __Rune (resource)__
-  - (Depicted by a silvery triangle icon) Runes are one of the two main resources in the world of Ascension. Runes are used to acquire Heroes and Constructs so you can add them to your deck.
+  - (_Depicted by a silver triangle icon_) Runes are one of the two main resources in the world of Ascension. Runes are used to acquire Heroes and Constructs so you can add them to your deck.
 - __Serenity (keyword)__
   - Cards with Serenity have additional effects that occur if the player has no cards in their discard pile.
 - __Set__

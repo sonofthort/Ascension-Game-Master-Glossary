@@ -182,7 +182,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Storm of Souls__ (_expansion_)
   - A game expansion.
 - __Team Play__ (_game variation_)
-  - A game variation featuring two teams of two players__ (_four players total_).
+  - A game variation featuring two teams of two players (_four players total_).
 - __Temple__
   - When the game starts, place all three Temples below the center row, out of any player's control. To gain control of the Temple of Life, a player must spend a Life Keystone, and to gain control of the Temple of Death, a player must spend a Death Keystone. You can only gain control of the Temple of Immortality by using the abilities of the Temple of Life or the Temple of Death. You may still maintain control of the Temple of Immortality even if you lose control of the other Temples.
   - When a player gains control of a Temple by paying its Keystone cost, that player puts the Temple in front of them. At the end of a game, if a player controls a Temple, that Temple's Honor value is added to their score. Players can steal Temples from each other, so be sure to make the most of your time controlling them!

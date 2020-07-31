@@ -1,11 +1,9 @@
 # Ascension-Game-Master-Glossary (Overview)
 A master glossary for the card game, Ascension. Includes mechanics from all expansions. As a new player, I felt it would be helpful to have a text-searchable master glossary, but I struggled to find such a resource, and was left sorting through multiple expansion rule books. I've made an attempt at creating a master glossary, to help myself learn the game, and to hopefully help others. Please let me know if you have any feedback or suggestions!
 
-# Notes, and Future Improvements
+# Notes
 - Some of the definitions were taken as-is from official rule books (https://www.stoneblade.com/rules). I do not take credit for many of these definitions.
 - Some of the mechanics defined in this glossary are only applicable if particular game expansions are in play.
-  - TODO: Indicate for which expansion a particular glossary term relates, if it is only applicable to a single or set of expansions.
-- TODO: Add meaningful descriptions for each game expansion definition.
 
 # Master Glossary
 - __Anchor (keyword)__
@@ -204,3 +202,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - A card faction. Void cards tend to provide Power, banish ability, and interaction with The Void.
 - __War of Shadows (expansion)__
   - A game expansion.
+
+# Feature Changes 
+- Indicate for which expansion a particular glossary term relates, if it is only applicable to a single or set of expansions.
+- Add meaningful descriptions for each game expansion definition.

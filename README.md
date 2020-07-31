@@ -5,44 +5,44 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - Some of the definitions were taken as-is from official rule books (https://www.stoneblade.com/rules). I do not take credit for many of these definitions.
 - Some of the mechanics defined in this glossary are only applicable if particular game expansions are in play.
   - TODO: Indicate for which expansion a particular glossary term relates, if it is only applicable to a single or set of expansions.
-- TODO: Add meaningful descriptions for each game expansion definition below.
+- TODO: Add meaningful descriptions for each game expansion definition.
 
 # Master Glossary
-- Anchor (keyword)
+- __Anchor (keyword)__
   - When you acquire or defeat a card with Anchor in the center row, if your ship is on the card's space, gain the Anchor effect.
-- Ascension (expansion)
+- __Ascension (expansion)__
   - A game expansion/the original game.
-- Banish (action)
+- __Banish (action)__
   - When a card is banished, it is placed in the Void. Always available cards and starting deck cards do not go to the Void when banished. Starting deck cards are set aside outside the game and always available cards are put back in their appropriate always available zone when banished.
-- Card
-  - A rectangular thing, should be self explanatory. One of the base units of Ascension.
-- Champion
+- __Card__
+  - A rectangular thing with a name and other attributes. One of the base units of Ascension. Some cards are playable and may be added to a player's deck, and other cards have special purpose and exist outside of player decks.
+- __Champion__
   - Champions are leaders within the main factions in Ascension. Champions are randomly assigned at the beginning of the game, and dictate how a player gains Reputation and what rewards it gives him.
-- Construct (card)
+- __Construct (card)__
   - Constructs are the many weapons, magical items, and fantastical devices you may acquire to use in your battles. After you play a Construct from your hand, you can gain an effect from it every turn it remains in play. Some effects allow placing a Construct directly into play, without having played it from hand.
-- Cost
+- __Cost__
   - The cost in Runes to acquire a card from the center row. Indicated by a Rune icon in the upper right hand corner of a card.
-- Crew (resource)
+- __Crew (resource)__
   - (Depicted by an anchor icon) Crew is your ship's resource. When your ship is on the space of a card that has cost equal to or less than it's Crew, you may spend Crew equal to the card's cost to acquire or defeat the card. Crew count cannot exceed 9.
-- Crew Dial
+- __Crew Dial__
   - The Crew Dial indicates the number of Crew a player has gathered. It will be visible on a player's Ship Token, above an anchor icon.
-- Dark Card
+- __Dark Card__
   - Cards with a moon icon in the upper right hand corner. Gains a bonus if it is currently Night time.
-- Darkness Unleashed (expansion)
+- __Darkness Unleashed (expansion)__
   - A game expansion.
-- Dawn of Champions (expansion)
+- __Dawn of Champions (expansion)__
   - A game expansion.
-- Day
+- __Day__
   - A global game state which can affect Light cards. If there are more Light cards in the center row than there are Dark cards, then it is Day time.
-- Day (keyword)
+- __Day (keyword)__
   - Gain the Day effect if it is currently Day time.
-- Deck
+- __Deck__
   - The entire collection of cards which are considered to be in possession by a player. Cards from a player's deck may be in Hand, in their Discard Pile, in their Draw Pile, or may be face up in front of the player while in use (such as with Construct cards).
-- Defeat (action)
+- __Defeat (action)__
   - When a monster is defeated, its reward is gained by the player who defeated the monster. Monsters are typically defeated from the center row by paying their Power cost, however, other game/card effects can allow to defeat monsters by other means.
-- Delirium (expansion)
+- __Delirium (expansion)__
   - A game expansion.
-- Delirium Die
+- __Delirium Die__
   - The Delirium Die is a special die included in Ascension: Delirium. At any point during a player's turn, they may pay 5 Insight to roll the die and gain whatever is rolled on the die. The six possible rewards are:
     - You may banish a card in your hand or discard pile
     - Draw two cards
@@ -50,67 +50,67 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
     - Gain 4 Power
     - Gain 5 Honor
     - Gain 6 Insight
-- Deliverance (expansion)
+- __Deliverance (expansion)__
   - A game expansion.
-- Destroy (action)
+- __Destroy (action)__
   - Destroy means to put into the discard pile from play and generally refers to Constructs.
-- Discard (action)
+- __Discard (action)__
   - Move an unplayed card in your hand to your discard pile.
-- Discard Pile (card pile)
+- __Discard Pile (card pile)__
   - A set of cards which have already been played by a player. When the draw pile is empty, and a draw is attempted, the discard pile is shuffled and moved to the draw pile.
-- Dreambind (keyword)
+- __Dreambind (keyword)__
   - Monsters with the Dreambind keyword can be acquired when a player defeats them by paying the Insight cost listed after “Dreambind”. When a player Dreambinds a Monster, it goes to their discard pile. Dreambind Monsters give their Reward when played from hand.
-- Draw (action)
+- __Draw (action)__
   - Moving the top card of a player's draw pile to that player's hand.
-- Draw Pile (card pile)
+- __Draw Pile (card pile)__
   - When a player draws a card, it is taken from the top of their draw pile. At the beginning of the game, a player's deck makes up the entire draw pile. Throughout the game, cards from a player's deck will either be in the Draw Pile, the Discard Pile, or in Hand.
-- Dream Card
+- __Dream Card__
   - A special card obtained from the Dream Deck. Dream Cards have golden borders.
-- Dream Deck
+- __Dream Deck__
   - A special deck from which Dreamscape cards are drawn.
-- Dreamborn (faction)
+- __Dreamborn (faction)__
     - Dreamborn cards can be identified by their gold Dreamborn card frame (see Stone Artificers card frame). When a Dreamborn card enters the center row, EACH player gains 1 Insight. Additionally, when a player acquires a Dreamborn card, ONLY THAT player gains 1 Insight.
-- Dreamscape
+- __Dreamscape__
   - A hidden set of cards players have access to during the game. Unlike center row cards, each player's Dreamscape cards are purchasable only by that player. These cards are purchasable during the game with Insight.
-- Dreamscape (expansion)
+- __Dreamscape (expansion)__
   - A game expansion.
-- Dual Cost Card
+- __Dual Cost Card__
   - A card which has both a Rune and a Power cost. These are either hero or construct cards.
-- Echo (keyword)
+- __Echo (keyword)__
   - Cards with Echo have additional effects that occur if the player has cards in their discard pile that share the same faction as the Echo card.
-- Effect
+- __Effect__
   - The actions/result performed/gained from playing a card or defeating a monster. Card effects are described on each card.
-- Empowered (keyword)
+- __Empowered (keyword)__
   - Cards with the Empowered keyword allow the player acquiring them to banish a card that they have played that turn as part of their acquisition.
-- Energize (keyword)
+- __Energize (keyword)__
   - Cards with Energize have additional effects if you've gained enough Energy on the turn you use them. Multiple Energize cards can be activated with the same Energy, since Energy is not spent.
-- Energy (resource)
+- __Energy (resource)__
   - (Depicted by a blue/electric square icon) Energy is a threshold resource used to activate additional effects on cards with Energize.
-- Enlightened (faction)
+- __Enlightened (faction)__
   - A card faction. Enlightened cards tend to provide card draw, and provide effects which help defeat and acquire cards in the center row (without paying Power or Runes).
-- Event
+- __Event__
   - Events represent global effects that change the power structure of the world, and change the rules of the game for all players for as long as they remain in play.
-- Event (card)
+- __Event (card)__
   - A special type of card which is in play when an Event is active. The Event card describes the event.
-- Expansion
+- __Expansion__
   - The game Ascension has multiple expansions. Expansions can be combined arbitrarily to create interesting game play scenarios.
-- Faction
+- __Faction__
   - A hero, monster, or construct, may belong to a particular faction. Many cards provide bonuses related to particular card factions. Factions include Mechana, Lifebound, Enlightened, Void, and Dreamborn.
-- Flavor Text
+- __Flavor Text__
   - Cards may have flavor text, written in italics toward the bottom of the card. Flavor text is related to lore only, and does not impact a card's effect.
-- Gift of the Elements (expansion)
+- __Gift of the Elements (expansion)__
   - A game expansion.
-- Hand
+- __Hand__
   - A collection of hards which have been drawn from a player's Draw Pile, constituting cards which a player may play on their turn. Five cards are drawn at the beginning of the game for each player, and at the end of each player's turn. Additional cards can be drawn or added to hand through various game mechanics.
-- Hero (card)
+- __Hero (card)__
   - Heroes are the allies you can acquire to aid you in your quest to save the realm of New Vigil. When you play a Hero from your hand, you gain the effect listed on the card, and then it goes to your discard pile at the end of your turn.
-- Honor (resource)
+- __Honor (resource)__
   - (Depicted by a five-point star icon) Honor is the key to victory in Ascension. Whoever earns the most Honor wins the game. Honor can be obtained from the shared Honor pool (typically by defeating monsters, or by playing cards which cause Honor gain). Honor is gained from each card in a player's deck, and is tallied at the end of the game. Each card has an Honor amount depicted by a star icon and number in the bottom left hand corner of a card.
-- Insight (resource)
+- __Insight (resource)__
   - (Depicted by an orange oval icon) Insight is a unique resource used to activate card effects like Transform, Phantasm and Dreambind. Unlike other resources, you do not lose unspent Insight at the end of your turn.
-- Immortal Heroes (expansion)
+- __Immortal Heroes (expansion)__
   - A game expansion.
-- Keystones (resource)
+- __Keystones (resource)__
   - Keystones work similarly to other resources, like Runes and Power, but are used to acquire and activate Temples. When a card gives a player a Keystone, that player can use the Keystone to gain control of the corresponding Temple. If a player already has a Temple, the player can use the appropriate Keystone to active the ability of their Temple and gain control of the Temple of Immortality.
   - Death Keystone
     - (Depicted by a brown skull icon) When you gain a Death Keystone, you may spend it to take one of the following actions:
@@ -122,85 +122,85 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
       - Gain control of the Temple of Life. If another player already controls it, you may take it from them.
       - If you already control the Temple of Life, gain control of the Temple of Immortality and gain 2 Runes.
       - If you already control the Temple of Life and the Temple of Immortality, gain 2 runes.
-- Keyword
+- __Keyword__
   - A singular word which appears on a card which has a special definition/effect.
-- Lifebound (faction)
+- __Lifebound (faction)__
   - A card faction. Lifebound cards tends to provide Runes and Honor, and utilize Unite heavily.
-- Light Card
+- __Light Card__
   - Cards with a sun icon in the upper right hand corner. Gains a bonus if it is currently Day time.
-- Mechana (faction)
+- __Mechana (faction)__
   - A card faction. Construct-heavy. Constructs tend to have very high Honor value. Mechana heroes tend to gain bonuses related to constructs which are in play.
-- Monster (card)
+- __Monster (card)__
   - Monsters are the terrors of the world. Defeating Monsters gives you rewards, including Honor that wins you the game.
-- Multi-Unite (keyword)
+- __Multi-Unite (keyword)__
   - Cards with Multi-Unite have additional effects that occur if you play them in the same turn as other Heroes that share the same faction. You gain the bonus effects listed under the Multi-Unite ability for each other Hero you play or have played that shares a faction with the Hero with Multi-Unite.
-- Multifaction (card)
+- __Multifaction (card)__
   - A multifaction card has two factions simultaneously. It will operate as both factions, interacting with effects related to either faction.
-- Name
+- __Name__
   - The name of a card. Indicated on the top of a card. Some cards interact with other cards with specific names.
-- Night
+- __Night__
   - A global game state which can affect Dark cards. If there are more Dark cards in the center row than there are Light cards, then it is Night time.
-- Night (keyword)
+- __Night (keyword)__
   - Gain the Night effect if it is currently Night time.
-- Ongoing (keyword)
+- __Ongoing (keyword)__
   - After a card with Ongoing is acquired or defeated, it remains in front of you and its effect is permanent unless banished.
-- Phantasm (keyword)
+- __Phantasm (keyword)__
   - Heroes with Phantasm can be played during your turn directly from the center row if you pay the Phantasm cost. When you do, you gain the effect of the card as though it was played from your hand and then banish it to the Void.
-- Power (resource)
+- __Power (resource)__
   - (Depicted by a red circular icon containing a sword) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
-- Raid (keyword)
+- __Raid (keyword)__
   - When you Raid, take control of a Treasure another player controls. Unless otherwise stated, Raid effects can only be used to take Treasure when your Ship Dial is on the same space as the opposing player.
-- Rally (keyword)
+- __Rally (keyword)__
   - Rally is an effect that only occurs when a card in the center row is replaced. When an effect tells you to Rally, it will indicate a characteristic, such as faction, that allows you to acquire or defeat the next card that enters the center row if it has the indicated characteristic.
-- Rarity
+- __Rarity__
   - (Depicted by a set of white circles on the bottom left hand corner of a card) Indicates how many copies of a card are present in the center deck. The number of white circles indicates the count.
-- Realms Unraveled (expansion)
+- __Realms Unraveled (expansion)__
   - A game expansion.
-- Recur (keyword)
+- __Recur (keyword)__
   - Cards with Recur have an option cost when played. If the Recur cost is played, the card gains its effect one additional time.
-- Reputation (resource)
+- __Reputation (resource)__
   - Reputation is gained through Reputation Powers on Champion Cards, and is used to unlock rewards and other card effects.
-- Return of the Fallen (expansion)
+- __Return of the Fallen (expansion)__
   - A game expansion.
-- Rise of Vigil (expansion)
+- __Rise of Vigil (expansion)__
   - A game expansion.
-- Rune (resource)
+- __Rune (resource)__
   - (Depicted by a silvery triangle icon) Runes are one of the two main resources in the world of Ascension. Runes are used to acquire Heroes and Constructs so you can add them to your deck.
-- Serenity (keyword)
+- __Serenity (keyword)__
   - Cards with Serenity have additional effects that occur if the player has no cards in their discard pile.
-- Set
+- __Set__
   - Cards can belong to a card set. Each game expansion introduces a new card set.
-- Ship Space
+- __Ship Space__
   - Spaces to place each player's Ship Token. Ship Spaces are considered to be adjacent to certain center row positions.
-- Ship Token
+- __Ship Token__
   - A token which represents a player's ship. A player's Ship Token are placed/moved along the Ship Spaces.
-- Skulls & Sails (expansion)
+- __Skulls & Sails (expansion)__
   - A game expansion.
-- Solitaire (game variation)
+- __Solitaire (game variation)__
   - A single-player game variation.
-- Soul Gem (card)
+- __Soul Gem (card)__
   - Soul Gems represent the spirits of heroes who fought against Samael in the Great War who were trapped by Kythis when he took control of the Well of souls. Each Soul Gem shares the art and effect of Heroes from previous Ascenion sets, though they are not Hero card themselves.
   - Soul Gems are not shuffled into the center deck at the beginning of the game. Instead, they are shuffled together and set aside face down with the Always Available cards. When a card effect tells a player to gain a Soul Gem, that player may play that Soul Gem to gain its effect at any time during that turn. At the end of a player's turn, all Soul Gems he or she controls are banished.
-- Storm of Souls (expansion)
+- __Storm of Souls (expansion)__
   - A game expansion.
-- Team Play (game variation)
+- __Team Play (game variation)__
   - A game variation featuring two teams of two players (four players total).
-- Temple
+- __Temple__
   - When the game starts, place all three Temples below the center row, out of any player's control. To gain control of the Temple of Life, a player must spend a Life Keystone, and to gain control of the Temple of Death, a player must spend a Death Keystone. You can only gain control of the Temple of Immortality by using the abilities of the Temple of Life or the Temple of Death. You may still maintain control of the Temple of Immortality even if you lose control of the other Temples.
   - When a player gains control of a Temple by paying its Keystone cost, that player puts the Temple in front of them. At the end of a game, if a player controls a Temple, that Temple's Honor value is added to their score. Players can steal Temples from each other, so be sure to make the most of your time controlling them!
-- Transform (keyword)
+- __Transform (keyword)__
   - Cards with Transform abilities can permanently upgrade if you pay their Transform cost. If you have sleeves, you can use the double-sided Transform cards and simply flip the card over in its sleeve. If you don’t have card sleeves, you can grab the appropriate Transformed version of your card from among  the silver bordered Transform cards outside the game.
-- Treasure (card)
+- __Treasure (card)__
   - Treasure is a card type that doesn't take up spots in the center row. When a Treasure card enters the center row, it remains in that spot and the next card from the center deck is flipped on top of it. Repeat this process until a non-Treasure card enters the center row. Whenever a player acquires or defeats a card in the center row, that player also acquires all Treasure cards underneath it.
-- Trophy (keyword)
+- __Trophy (keyword)__
   - Trophy is an additional reward on  some Monsters. When you defeat a Monster with a Trophy effect, gain the Honor reward immediately and put it face-up in play in front of you. You may banish it for its effect immediately or save it for a future turn.
-- Unite (keyword)
+- __Unite (keyword)__
   - Cards with the Unite keyword have additional effects that occur if you play them in the same turn as other Heroes that share the same faction. For instance, if a Lifebound Hero card has a Unite bonus, the player will receive the Unite bonus after playing the Hero, only if they had previously played another Lifebound Hero this turn.
-- Valley of the Ancients (expansion)
+- __Valley of the Ancients (expansion)__
   - A game expansion.
-- The Void (card pile)
+- __The Void (card pile)__
   - A pile of cards which contains Monsters which have been defeated. Some cards have special Void interaction.
-- Void (faction)
+- __Void (faction)__
   - A card faction. Void cards tend to provide Power, banish ability, and interaction with The Void.
-- War of Shadows (expansion)
+- __War of Shadows (expansion)__
   - A game expansion.

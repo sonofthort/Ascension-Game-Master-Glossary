@@ -151,7 +151,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Rally__ (_keyword_)
   - Rally is an effect that only occurs when a card in the center row is replaced. When an effect tells you to Rally, it will indicate a characteristic, such as faction, that allows you to acquire or defeat the next card that enters the center row if it has the indicated characteristic.
 - __Rarity__
-  - (_Depicted by a set of white circles on the bottom left hand corner of a card_) Indicates how many copies of a card are present in the center deck. The number of white circles indicates the count.
+  - (_Depicted by a set of white circles on the bottom right hand corner of a card_) Indicates how many copies of a card are present in the center deck. The number of white circles indicates the count.
 - __Realms Unraveled__ (_expansion_)
   - A game expansion.
 - __Recur__ (_keyword_)

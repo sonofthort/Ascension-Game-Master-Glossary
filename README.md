@@ -1,5 +1,5 @@
 # Ascension-Game-Master-Glossary (Overview)
-A master glossary for the card game, Ascension. Includes mechanics from all expansions. As a new player, I felt it would be helpful to have a text-searchable master glossary, but I struggled to find such a resource, and was left sorting through multiple expansion rule books (this is especially difficult if you jump into the app with multiple expansions already unlocked). I've made an attempt at creating a master glossary myself, to help myself learn the game, and to hopefully help others. Please let me know if you have any feedback or suggestions!
+A master glossary for the card game, Ascension. Includes mechanics from all expansions. As a new player, I felt it would be helpful to have a text-searchable master glossary, but I struggled to find such a resource, and was left sorting through multiple expansion rule books. I've made an attempt at creating a master glossary, to help myself learn the game, and to hopefully help others. Please let me know if you have any feedback or suggestions!
 
 # Notes, and Future Improvements
 - Some of the definitions were taken as-is from official rule books (https://www.stoneblade.com/rules). I do not take credit for many of these definitions.

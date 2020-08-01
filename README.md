@@ -191,8 +191,22 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Pasythea does not count as a card in the center row.
 - __Phantasm__ (_keyword_)
   - Heroes with Phantasm can be played during your turn directly from the center row if you pay the Phantasm cost. When you do, you gain the effect of the card as though it was played from your hand and then banish it to the Void.
+- __Portal__ (_card_)
+  - A special card type which can appear in the center row. Acquiring a Portal causes cards to be drawn from the center deck until a Hero or Construct of equal or greater value to the Portal is drawn (within 2 Runes). This card is then acquired by the player.
 - __Power__ (_resource_)
   - (_Depicted by a red circular icon containing a sword_) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
+- __Promo Pack 1__ (_mini-expansion_)
+  - _Includes a Hero for each Faction, and two new Monsters!_
+- __Promo Pack 2__ (_mini-expansion_)
+  - _Includes new Heroes, a Construct and a Monster!_
+- __Promo Pack 3__ (_mini-expansion_)
+  - _Includes new Constructs, a Hero and Monster!_
+- __Promo Pack 4__ (_mini-expansion_)
+  - _A digital exclusive which includes new Heroes, a Construct and a Monster!_
+- __Promo Pack 5__ (_mini-expansion_)
+  - _Adds Portals to the Center Deck, and includes Faction Cards which interact with Portals._
+- __Promo Pack 6__ (_mini-expansion_)
+  - _Adds ten new cards to the Center Deck._
 - __Raid__ (_keyword_)
   - When you Raid, take control of a Treasure another player controls. Unless otherwise stated, Raid effects can only be used to take Treasure when your Ship Dial is on the same space as the opposing player.
 - __Rally__ (_keyword_)
@@ -214,6 +228,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - _The power of the shards brought about the Rise of Vigil - will it now cause her fall?_
   - Treasure
   - Energize
+  - Energy Shard (treasure)
 - __Rune__ (_resource_)
   - (_Depicted by a silver triangle icon_) Runes are one of the two main resources in the world of Ascension. Runes are used to acquire Heroes and Constructs so you can add them to your deck.
 - __Serenity__ (_keyword_)

@@ -8,8 +8,6 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 # Master Glossary
 - __Anchor__ (_keyword_)
   - When you acquire or defeat a card with Anchor in the center row, if your ship is on the card's space, gain the Anchor effect.
-- __Chronicle of the Godslayer__ (_expansion_)
-  - _You must save the world of Vigil from Samael, the Fallen God._
 - __Banish__ (_action_)
   - When a card is banished, it is placed in the Void. Always available cards and starting deck cards do not go to the Void when banished. Starting deck cards are set aside outside the game and always available cards are put back in their appropriate always available zone when banished.
 - __Card__
@@ -26,6 +24,8 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - (_Depicted by an anchor icon_) Crew is your ship's resource. When your ship is on the space of a card that has cost equal to or less than it's Crew, you may spend Crew equal to the card's cost to acquire or defeat the card. Crew count cannot exceed 9.
 - __Crew Dial__
   - The Crew Dial indicates the number of Crew a player has gathered. It will be visible on a player's Ship Token, above an anchor icon.
+- __Chronicle of the Godslayer__ (_expansion_)
+  - _You must save the world of Vigil from Samael, the Fallen God._
 - __Dark Card__
   - Cards with a moon icon in the upper right hand corner. Gains a bonus if it is currently Night.
 - __Darkness Unleashed__ (_expansion_)
@@ -116,7 +116,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Energy__ (_resource_)
   - (_Depicted by a blue/electric square icon_) Energy is a threshold resource used to activate additional effects on cards with Energize.
 - __Enlightened__ (_faction_)
-  - A card faction. Enlightened cards tend to provide card draw, and provide effects which help defeat and acquire cards in the center row__ (_without paying Power or Runes_).
+  - Enlightened cards tend to provide card draw, and provide effects which help defeat and acquire cards in the center row (without paying Power or Runes).
 - __Event__
   - Events represent global effects that change the power structure of the world, and change the rules of the game for all players for as long as they remain in play.
 - __Event__ (_card_)
@@ -143,7 +143,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Hero__ (_card_)
   - Heroes are the allies you can acquire to aid you in your quest to save the realm of New Vigil. When you play a Hero from your hand, you gain the effect listed on the card, and then it goes to your discard pile at the end of your turn.
 - __Honor__ (_resource_)
-  - (_Depicted by a five-point star icon_) Honor is the key to victory in Ascension. Whoever earns the most Honor wins the game. Honor can be obtained from the shared Honor pool__ (_typically by defeating monsters, or by playing cards which cause Honor gain_). Honor is gained from each card in a player's deck, and is tallied at the end of the game. Each card has an Honor amount depicted by a star icon and number in the bottom left hand corner of a card.
+  - (_Depicted by a five-point star icon_) Honor is the key to victory in Ascension. Whoever earns the most Honor wins the game. Honor can be obtained from the shared Honor pool (typically by defeating monsters, or by playing cards which cause Honor gain). Honor is gained from each card in a player's deck, and is tallied at the end of the game. Each card has an Honor amount depicted by a star icon and number in the bottom left hand corner of a card.
 - __Infest__ (_keyword_)
   - When you defeat a Monster with Infest, you may choose a player and put that Monster into their discard pile instead of the void. When a Monster is drawn, it has no effect on its own, so this is a great way to mess up your opponent's draws. Be careful though, there are a few cards which allow players to benefit from having Monsters in their deck.
 - __Insight__ (_resource_)
@@ -167,11 +167,11 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Keyword__
   - A singular word which appears on a card which has a special definition/effect.
 - __Lifebound__ (_faction_)
-  - A card faction. Lifebound cards tends to provide Runes and Honor, and utilize Unite heavily.
+  - Lifebound cards tends to provide Runes and Honor, and utilize Unite heavily.
 - __Light Card__
   - Cards with a sun icon in the upper right hand corner. Gains a bonus if it is currently Day.
 - __Mechana__ (_faction_)
-  - A card faction. Construct-heavy. Constructs tend to have very high Honor value. Mechana heroes tend to gain bonuses related to constructs which are in play.
+  - Construct-heavy. Constructs tend to have very high Honor value. Mechana heroes tend to gain bonuses related to constructs which are in play.
 - __Monster__ (_card_)
   - Monsters are the terrors of the world. Defeating Monsters gives you rewards, including Honor that wins you the game.
 - __Multi-Unite__ (_keyword_)
@@ -192,7 +192,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Phantasm__ (_keyword_)
   - Heroes with Phantasm can be played during your turn directly from the center row if you pay the Phantasm cost. When you do, you gain the effect of the card as though it was played from your hand and then banish it to the Void.
 - __Portal__ (_card_)
-  - A special card type which can appear in the center row. Acquiring a Portal causes cards to be drawn from the center deck until a Hero or Construct of equal or greater value to the Portal is drawn (within 2 Runes). This card is then acquired by the player.
+  - A special card type which can appear in the center row. Acquiring a Portal causes cards to be drawn from the center deck until a Hero or Construct of greater value to the Portal is drawn (within 2 Runes). This card is then acquired by the player.
 - __Power__ (_resource_)
   - (_Depicted by a red circular icon containing a sword_) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
 - __Promo Pack 1__ (_expansion_)
@@ -200,7 +200,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Promo Pack 2__ (_expansion_)
   - Includes new Heroes, a Construct and a Monster!
 - __Promo Pack 3__ (_expansion_)
-  - Includes new Constructs, a Hero and Monster!
+  - Includes new Constructs, a Hero and a Monster!
 - __Promo Pack 4__ (_expansion_)
   - A digital exclusive which includes new Heroes, a Construct and a Monster!
 - __Promo Pack 5__ (_expansion_)
@@ -283,7 +283,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __The Void__ (_card pile_)
   - A pile of cards which contains Monsters which have been defeated. Some cards have special Void interaction.
 - __Void__ (_faction_)
-  - A card faction. Void cards tend to provide Power, banish ability, and interaction with The Void.
+  - Void cards tend to provide Power, banish ability, and interaction with The Void.
 - __War of Shadows__ (_expansion_)
   - _War is Upon Us!_
   - Light and Dark Cards

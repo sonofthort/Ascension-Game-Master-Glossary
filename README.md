@@ -195,18 +195,18 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - A special card type which can appear in the center row. Acquiring a Portal causes cards to be drawn from the center deck until a Hero or Construct of equal or greater value to the Portal is drawn (within 2 Runes). This card is then acquired by the player.
 - __Power__ (_resource_)
   - (_Depicted by a red circular icon containing a sword_) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
-- __Promo Pack 1__ (_mini-expansion_)
-  - _Includes a Hero for each Faction, and two new Monsters!_
-- __Promo Pack 2__ (_mini-expansion_)
-  - _Includes new Heroes, a Construct and a Monster!_
-- __Promo Pack 3__ (_mini-expansion_)
-  - _Includes new Constructs, a Hero and Monster!_
-- __Promo Pack 4__ (_mini-expansion_)
-  - _A digital exclusive which includes new Heroes, a Construct and a Monster!_
-- __Promo Pack 5__ (_mini-expansion_)
-  - _Adds Portals to the Center Deck, and includes Faction Cards which interact with Portals._
-- __Promo Pack 6__ (_mini-expansion_)
-  - _Adds ten new cards to the Center Deck._
+- __Promo Pack 1__ (_expansion_)
+  - Includes a Hero for each Faction, and two new Monsters!
+- __Promo Pack 2__ (_expansion_)
+  - Includes new Heroes, a Construct and a Monster!
+- __Promo Pack 3__ (_expansion_)
+  - Includes new Constructs, a Hero and Monster!
+- __Promo Pack 4__ (_expansion_)
+  - A digital exclusive which includes new Heroes, a Construct and a Monster!
+- __Promo Pack 5__ (_expansion_)
+  - Adds Portals to the Center Deck, and includes Faction Cards which interact with Portals.
+- __Promo Pack 6__ (_expansion_)
+  - Adds ten new cards to the Center Deck.
 - __Raid__ (_keyword_)
   - When you Raid, take control of a Treasure another player controls. Unless otherwise stated, Raid effects can only be used to take Treasure when your Ship Dial is on the same space as the opposing player.
 - __Rally__ (_keyword_)

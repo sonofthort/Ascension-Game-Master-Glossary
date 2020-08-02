@@ -91,7 +91,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - A special card obtained from the Dream Deck. Dream Cards have golden borders.
 - __Dream Deck__ [:heavy_plus_sign: _Dreamscape_]
   - A special deck from which Dreamscape cards are drawn.
-- __Dreamborn__ (_faction_) [:heavy_plus_sign: _Dreamscape_]
+- __Dreamborn__ (:black_flag: _faction_) [:heavy_plus_sign: _Dreamscape_]
     - Dreamborn cards can be identified by their gold Dreamborn card frame__ (_see Stone Artificers card frame_). When a Dreamborn card enters the center row, EACH player gains 1 Insight. Additionally, when a player acquires a Dreamborn card, ONLY THAT player gains 1 Insight.
 - __Dreamscape__ [:heavy_plus_sign: _Dreamscape_]
   - A hidden set of cards players have access to during the game. Unlike center row cards, each player's Dreamscape cards are purchasable only by that player. These cards are purchasable during the game with Insight.
@@ -119,7 +119,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Cards with Energize have additional effects if you've gained enough Energy on the turn you use them. Multiple Energize cards can be activated with the same Energy, since Energy is not spent.
 - __Energy__ (:gem: _resource_) [:heavy_plus_sign: _Rise of Vigil, Darkness Unleashed_]
   - (_Depicted by a blue/electric square icon_) Energy is a threshold resource used to activate additional effects on cards with Energize.
-- __Enlightened__ (_faction_)
+- __Enlightened__ (:black_flag: _faction_)
   - Enlightened cards tend to provide card draw, and provide effects which help defeat and acquire cards in the center row (without paying Power or Runes).
 - __Event__ [:heavy_plus_sign: _Storm of Souls, Gift of the Elements_]
   - Events represent global effects that change the power structure of the world, and change the rules of the game for all players for as long as they remain in play.
@@ -127,9 +127,9 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - A special type of card which is in play when an Event is active. The Event card describes the event.
 - __Event Trophy__ (:old_key: _keyword_) [:heavy_plus_sign: _Storm of Souls_]
   - Event cards will sometimes possess an Event Trophy. an Event Trophy is an action/effect which takes place when a player triggers the Event Trophy (typically by banishing a Fanatic).
-- __Expansion__
+- __Expansion__ :heavy_plus_sign:
   - The game Ascension has multiple expansions. Expansions can be combined arbitrarily to create interesting game play scenarios.
-- __Faction__
+- __Faction__ :black_flag:
   - A hero, monster, or construct, may belong to a particular faction. Many cards provide bonuses related to particular card factions. Factions include Mechana, Lifebound, Enlightened, Void, and Dreamborn.
 - __Faction Monster__ (:black_joker: _card_) [:heavy_plus_sign: _Dawn of Champions_]
   - A Monster which has a Faction, which can cause interaction with other effects such as Rally when the Monster is defeated.
@@ -175,11 +175,11 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
       - If you already control the Temple of Life and the Temple of Immortality, gain 2 runes.
 - __Keyword__ :old_key:
   - A singular word (or sometimes a phrase) which appears on a card which has a special definition/effect.
-- __Lifebound__ (_faction_)
+- __Lifebound__ (:black_flag: _faction_)
   - Lifebound cards tends to provide Runes and Honor, and utilize Unite heavily.
 - __Light Card__ [:heavy_plus_sign: _War of Shadows_]
   - Cards with a sun icon in the upper right hand corner. Gains a bonus if it is currently Day.
-- __Mechana__ (_faction_)
+- __Mechana__ (:black_flag: _faction_)
   - Construct-heavy. Constructs tend to have very high Honor value. Mechana heroes tend to gain bonuses related to constructs which are in play.
 - __Monster__ :zombie: (:black_joker: _card_)
   - Monsters are the terrors of the world. Defeating Monsters gives you rewards, including Honor that wins you the game.
@@ -298,7 +298,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - When a Vision is acquired from a player's Dreamscape, it isn't added to that player's deck. Instead, the card has an immediate effect on the game. Resolve the effect on the card, then banish it unless it has an ongoing effect. Visions with Ongoing effects stay face up in front of the player. That effect is considered to be in play for the rest of the game.
 - __The Void__ (_card pile_)
   - A pile of cards which contains Monsters which have been defeated. Some cards have special Void interaction.
-- __Void__ (_faction_)
+- __Void__ (:black_flag: _faction_)
   - Void cards tend to provide Power, banish ability, and interaction with The Void.
 - __War of Shadows__ (:heavy_plus_sign: _expansion_)
   - _War is Upon Us!_

@@ -193,6 +193,8 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Heroes with Phantasm can be played during your turn directly from the center row if you pay the Phantasm cost. When you do, you gain the effect of the card as though it was played from your hand and then banish it to the Void.
 - __Portal__ (_card_)
   - A special card type which can appear in the center row. Acquiring a Portal causes cards to be drawn from the center deck until a Hero or Construct of greater value to the Portal is drawn (within 2 Runes). This card is then acquired by the player.
+- __Portal Deck__ (_card pile_)
+  - Another name for the Center Deck. The term Portal Deck appears in one section of the _Storm of Souls_ rulebook, but this rulebook uses the term Center Deck elsewhere. The term Portal Deck is not seen anywhere else throughout the game/expansions. The term Portal also has another meaning (a card type). Its possible that the usage of Portal Deck in the _Storm of Souls_ rulebook is a typo.
 - __Power__ (_resource_)
   - (_Depicted by a red circular icon containing a sword_) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
 - __Promo Pack 1__ (_expansion_)

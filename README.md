@@ -4,6 +4,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 # Notes
 - Some of the definitions were taken as-is from official rule books (https://www.stoneblade.com/rules).
 - Some mechanics are only applicable if particular game expansions are in play. Required expansions are noted in square-brackets.
+- This glossary uses emojis to help label certain concepts. These emojis are not found in game.
 
 # Master Glossary
 - __Always Available__ (:black_joker: _card_)

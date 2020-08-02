@@ -8,7 +8,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 # Master Glossary
 - __Always Available__ (:black_joker: _card_)
   - A Hero or Monster which can be acquired or defeated from an Always Available pile. Each Always Available Hero and Monster has its own Always Available card pile.
-- __Always Available__ (_card pile_)
+- __Always Available__ (:card_index: _card pile_)
   - A card pile from which Always Available cards may be drawn.
 - __Anchor__ (:old_key: _keyword_) [:heavy_plus_sign: _Skulls & Sails_]
   - When you acquire or defeat a card with Anchor in the center row, if your ship is on the card's space, gain the Anchor effect.
@@ -16,6 +16,8 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - When a card is banished, it is placed in the Void. Always available cards and starting deck cards do not go to the Void when banished. Starting deck cards are set aside outside the game and always available cards are put back in their appropriate always available zone when banished.
 - __Card__ :black_joker:
   - A rectangular object with a name and other attributes. One of the base units of Ascension. Some cards are playable and may be added to a player's deck, and other cards have special purpose and exist outside of player decks.
+- __Card Pile__ :card_index:
+  - An ordered collection of cards from which cards are drawn. Card Piles are typically shuffled, but some actions allow cards to be placed in a Card Pile in a particular position.
 - __Center Row Effect__ [:heavy_plus_sign: _Valley of the Ancients_]
   - Cards in the center deck which feature a black border with yellow lightning. Cards with this border have effects that are active while they are in the center row. The effects usually relate to a change in how a card is acquired, so make sure to read the card carefully when you see one in the center row.
 - __Champion__ [:heavy_plus_sign: _Dawn of Champions_]
@@ -79,13 +81,13 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Destroy means to put into the discard pile from play and generally refers to Constructs.
 - __Discard__ (:runner: _action_)
   - Move an unplayed card in your hand to your discard pile.
-- __Discard Pile__ (_card pile_)
+- __Discard Pile__ (:card_index: _card pile_)
   - A set of cards which have already been played by a player. When the draw pile is empty, and a draw is attempted, the discard pile is shuffled and moved to the draw pile.
 - __Dreambind__ (:old_key: _keyword_) [:heavy_plus_sign: _Dreamscape_]
   - Monsters with the Dreambind keyword can be acquired when a player defeats them by paying the Insight cost listed after “Dreambind”. When a player Dreambinds a Monster, it goes to their discard pile. Dreambind Monsters give their Reward when played from hand.
 - __Draw__ (:runner: _action_)
   - Moving the top card of a player's draw pile to that player's hand.
-- __Draw Pile__ (_card pile_)
+- __Draw Pile__ (:card_index: _card pile_)
   - When a player draws a card, it is taken from the top of their draw pile. At the beginning of the game, a player's deck makes up the entire draw pile. Throughout the game, cards from a player's deck will either be in the Draw Pile, the Discard Pile, or in Hand.
 - __Dream Card__ [:heavy_plus_sign: _Dreamscape_]
   - A special card obtained from the Dream Deck. Dream Cards have golden borders.
@@ -202,7 +204,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Heroes with Phantasm can be played during your turn directly from the center row if you pay the Phantasm cost. When you do, you gain the effect of the card as though it was played from your hand and then banish it to the Void.
 - __Portal__ (:black_joker: _card_) [:heavy_plus_sign: _Promo Pack 5_]
   - A special card type which can appear in the center row. Acquiring a Portal causes cards to be drawn from the center deck until a Hero or Construct of greater value to the Portal is drawn (within 2 Runes). This card is then acquired by the player.
-- __Portal Deck__ (_card pile_)
+- __Portal Deck__ (:card_index: _card pile_)
   - Another name for the Center Deck. The term Portal Deck appears in one section of the _Storm of Souls_ rulebook, while this rulebook uses the term Center Deck elsewhere. The term Portal Deck is not seen elsewhere throughout the game/expansions. The term Portal also has another meaning (a card type).
 - __Power__ (:gem: _resource_)
   - (_Depicted by a red circular icon containing a sword_) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
@@ -296,7 +298,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Center Row Effects
 - __Vision__ (:black_joker: _card_) [:heavy_plus_sign: _Dreamscape_]
   - When a Vision is acquired from a player's Dreamscape, it isn't added to that player's deck. Instead, the card has an immediate effect on the game. Resolve the effect on the card, then banish it unless it has an ongoing effect. Visions with Ongoing effects stay face up in front of the player. That effect is considered to be in play for the rest of the game.
-- __The Void__ (_card pile_)
+- __The Void__ (:card_index: _card pile_)
   - A pile of cards which contains Monsters which have been defeated. Some cards have special Void interaction.
 - __Void__ (:black_flag: _faction_)
   - Void cards tend to provide Power, banish ability, and interaction with The Void.

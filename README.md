@@ -134,7 +134,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - The game Ascension has multiple expansions. Expansions can be combined arbitrarily to create interesting game play scenarios.
 - __Faction__ :black_flag:
   - A hero, monster, or construct, may belong to a particular faction. Many cards provide bonuses related to particular card factions. Factions include Mechana, Lifebound, Enlightened, Void, and Dreamborn.
-- __Faction Monster__ (:black_joker: _card_) [_Dawn of Champions_]
+- __Faction Monster__ (:zombie: _monster_) [_Dawn of Champions_]
   - A Monster which has a Faction, which can cause interaction with other effects such as Rally when the Monster is defeated.
 - __Fanatic__ (:zombie: _monster_) [_Storm of Souls_]
   - An Always Available Monster. The Fanatic is a Trophy Monster with a variable reward based on the current Event called an Event Trophy. You may have no more than one Fanatic Trophy at any time. If you defeat a Fanatic while you already have a Trophy from one, you gain the Honor reward but do not get another Trophy.

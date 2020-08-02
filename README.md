@@ -24,7 +24,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Constructs are the many weapons, magical items, and fantastical devices you may acquire to use in your battles. After you play a Construct from your hand, you can gain an effect from it every turn it remains in play. Some effects allow placing a Construct directly into play, without having played it from hand.
 - __Cost__
   - The cost in Runes to acquire a card from the center row. Indicated by a Rune icon in the upper right hand corner of a card.
-- __Crew__ (_resource_) [:heavy_plus_sign: _Skulls & Sails_]
+- __Crew__ (:gem: _resource_) [:heavy_plus_sign: _Skulls & Sails_]
   - (_Depicted by an anchor icon_) Crew is your ship's resource. When your ship is on the space of a card that has cost equal to or less than it's Crew, you may spend Crew equal to the card's cost to acquire or defeat the card. Crew count cannot exceed 9.
 - __Crew Dial__ [:heavy_plus_sign: _Skulls & Sails_]
   - The Crew Dial indicates the number of Crew a player has gathered. It will be visible on a player's Ship Token, above an anchor icon.
@@ -117,7 +117,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Cards with the Empowered keyword allow the player acquiring them to banish a card that they have played that turn as part of their acquisition.
 - __Energize__ (:old_key: _keyword_) [:heavy_plus_sign: _Rise of Vigil, Darkness Unleashed_]
   - Cards with Energize have additional effects if you've gained enough Energy on the turn you use them. Multiple Energize cards can be activated with the same Energy, since Energy is not spent.
-- __Energy__ (_resource_) [:heavy_plus_sign: _Rise of Vigil, Darkness Unleashed_]
+- __Energy__ (:gem: _resource_) [:heavy_plus_sign: _Rise of Vigil, Darkness Unleashed_]
   - (_Depicted by a blue/electric square icon_) Energy is a threshold resource used to activate additional effects on cards with Energize.
 - __Enlightened__ (_faction_)
   - Enlightened cards tend to provide card draw, and provide effects which help defeat and acquire cards in the center row (without paying Power or Runes).
@@ -151,17 +151,17 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - A collection of hards which have been drawn from a player's Draw Pile, constituting cards which a player may play on their turn. Five cards are drawn at the beginning of the game for each player, and at the end of each player's turn. Additional cards can be drawn or added to hand through various game mechanics.
 - __Hero__ :superhero_man: (:black_joker: _card_)
   - Heroes are the allies you can acquire to aid you in your quest to save the realm of New Vigil. When you play a Hero from your hand, you gain the effect listed on the card, and then it goes to your discard pile at the end of your turn.
-- __Honor__ (_resource_)
+- __Honor__ (:gem: _resource_)
   - (_Depicted by a five-point star icon_) Honor is the key to victory in Ascension. Whoever earns the most Honor wins the game. Honor can be obtained from the shared Honor pool (typically by defeating monsters, or by playing cards which cause Honor gain). Honor is gained from each card in a player's deck, and is tallied at the end of the game. Each card has an Honor amount depicted by a star icon and number in the bottom left hand corner of a card.
 - __Infest__ (:old_key: _keyword_) [:heavy_plus_sign: _Gift of the Elements_]
   - When you defeat a Monster with Infest, you may choose a player and put that Monster into their discard pile instead of the void. When a Monster is drawn, it has no effect on its own, so this is a great way to mess up your opponent's draws. Be careful though, there are a few cards which allow players to benefit from having Monsters in their deck.
-- __Insight__ (_resource_) [:heavy_plus_sign: _Delirium, Deliverance, Dreamscape_]
+- __Insight__ (:gem: _resource_) [:heavy_plus_sign: _Delirium, Deliverance, Dreamscape_]
   - (_Depicted by an orange currency-like icon_) Insight is a unique resource used to activate card effects like Transform, Phantasm and Dreambind. Unlike other resources, you do not lose unspent Insight at the end of your turn.
 - __Immortal Heroes__ (:heavy_plus_sign: _expansion_)
   - _With Soul Gems bolstering his powers, the former Gatekeeper, Kythis, seeks to bring the realm of Deofol under his sway._
   - Soul Gems
   - Ongoing Trophy
-- __Keystones__ (_resource_) [:heavy_plus_sign: _Valley of the Ancients_]
+- __Keystones__ (:gem: _resource_) [:heavy_plus_sign: _Valley of the Ancients_]
   - Keystones work similarly to other resources, like Runes and Power, but are used to acquire and activate Temples. When a card gives a player a Keystone, that player can use the Keystone to gain control of the corresponding Temple. If a player already has a Temple, the player can use the appropriate Keystone to active the ability of their Temple and gain control of the Temple of Immortality.
   - __Death Keystone__
     - (_Depicted by a brown skull icon_) When you gain a Death Keystone, you may spend it to take one of the following actions:
@@ -204,7 +204,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - A special card type which can appear in the center row. Acquiring a Portal causes cards to be drawn from the center deck until a Hero or Construct of greater value to the Portal is drawn (within 2 Runes). This card is then acquired by the player.
 - __Portal Deck__ (_card pile_)
   - Another name for the Center Deck. The term Portal Deck appears in one section of the _Storm of Souls_ rulebook, while this rulebook uses the term Center Deck elsewhere. The term Portal Deck is not seen elsewhere throughout the game/expansions. The term Portal also has another meaning (a card type).
-- __Power__ (_resource_)
+- __Power__ (:gem: _resource_)
   - (_Depicted by a red circular icon containing a sword_) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
 - __Promo Pack 1__ (:heavy_plus_sign: _expansion_)
   - Includes a Hero for each Faction, and two new Monsters!
@@ -231,7 +231,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Multi-Unite
 - __Recur__ (:old_key: _keyword_) [:heavy_plus_sign: _Delirium_]
   - Cards with Recur have an option cost when played. If the Recur cost is played, the card gains its effect one additional time.
-- __Reputation__ (_resource_) [:heavy_plus_sign: _Dawn of Champions_]
+- __Reputation__ (:gem: _resource_) [:heavy_plus_sign: _Dawn of Champions_]
   - Reputation is gained through Reputation Powers on Champion Cards, and is used to unlock rewards and other card effects.
 - __Return of the Fallen__ (:heavy_plus_sign: _expansion_)
   - _The Fallen has returned._
@@ -241,7 +241,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Treasure
   - Energize
   - Energy Shard (treasure)
-- __Rune__ (_resource_)
+- __Rune__ (:gem: _resource_)
   - (_Depicted by a silver triangle icon_) Runes are one of the two main resources in the world of Ascension. Runes are used to acquire Heroes and Constructs so you can add them to your deck.
 - __Serenity__ (:old_key: _keyword_) [:heavy_plus_sign: _Valley of the Ancients_]
   - Cards with Serenity have additional effects that occur if the player has no cards in their discard pile.

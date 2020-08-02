@@ -3,30 +3,35 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 
 # Notes
 - Some of the definitions were taken as-is from official rule books (https://www.stoneblade.com/rules).
-- Some of the mechanics defined in this glossary are only applicable if particular game expansions are in play.
+- Some mechanics are only applicable if particular game expansions are in play. Required expansions are noted in square-brackets.
 
 # Master Glossary
-- __Anchor__ (_keyword_)
+- __Always Available__ (_card_)
+  - A Hero or Monster which can be acquired or defeated from an Always Available pile. Each Always Available Hero and Monster has its own Always Available card pile.
+- __Always Available__ (_card pile_)
+  - A card pile from which Always Available cards may be drawn.
+- __Anchor__ (_keyword_) [_Skulls & Sails_]
   - When you acquire or defeat a card with Anchor in the center row, if your ship is on the card's space, gain the Anchor effect.
 - __Banish__ (_action_)
   - When a card is banished, it is placed in the Void. Always available cards and starting deck cards do not go to the Void when banished. Starting deck cards are set aside outside the game and always available cards are put back in their appropriate always available zone when banished.
 - __Card__
   - A rectangular object with a name and other attributes. One of the base units of Ascension. Some cards are playable and may be added to a player's deck, and other cards have special purpose and exist outside of player decks.
-- __Center Row Effect__
+- __Center Row Effect__ [_Valley of the Ancients_]
   - Cards in the center deck which feature a black border with yellow lightning. Cards with this border have effects that are active while they are in the center row. The effects usually relate to a change in how a card is acquired, so make sure to read the card carefully when you see one in the center row.
-- __Champion__
+- __Champion__ [_Dawn of Champions_]
   - Champions are leaders within the main factions in Ascension. Champions are randomly assigned at the beginning of the game, and dictate how a player gains Reputation and what rewards it gives him.
 - __Construct__ (_card_)
   - Constructs are the many weapons, magical items, and fantastical devices you may acquire to use in your battles. After you play a Construct from your hand, you can gain an effect from it every turn it remains in play. Some effects allow placing a Construct directly into play, without having played it from hand.
 - __Cost__
   - The cost in Runes to acquire a card from the center row. Indicated by a Rune icon in the upper right hand corner of a card.
-- __Crew__ (_resource_)
+- __Crew__ (_resource_) [_Skulls & Sails_]
   - (_Depicted by an anchor icon_) Crew is your ship's resource. When your ship is on the space of a card that has cost equal to or less than it's Crew, you may spend Crew equal to the card's cost to acquire or defeat the card. Crew count cannot exceed 9.
-- __Crew Dial__
+- __Crew Dial__ [_Skulls & Sails_]
   - The Crew Dial indicates the number of Crew a player has gathered. It will be visible on a player's Ship Token, above an anchor icon.
 - __Chronicle of the Godslayer__ (_expansion_)
   - _You must save the world of Vigil from Samael, the Fallen God._
-- __Dark Card__
+  - This is the first version of the game, and introduces the base mechanics.
+- __Dark Card__ [_War of Shadows_]
   - Cards with a moon icon in the upper right hand corner. Gains a bonus if it is currently Night.
 - __Darkness Unleashed__ (_expansion_)
   - _Darkness has fallen over Vigil._
@@ -38,9 +43,9 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Rally
   - Multifaction Heroes and Constructs
   - Faction Monsters
-- __Day__
+- __Day__ [_War of Shadows_]
   - A global game state which can affect Light cards. If there are more Light cards in the center row than there are Dark cards, then it is Day.
-- __Day__ (_keyword_)
+- __Day__ (_keyword_) [_War of Shadows_]
   - Gain the Day effect if it is currently Day.
 - __Deck__
   - The entire collection of cards which are considered to be in possession by a player. Cards from a player's deck may be in Hand, in their Discard Pile, in their Draw Pile, or may be face up in front of the player while in use__ (_such as with Construct cards_).
@@ -53,7 +58,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Recur
   - Fate - Auction
   - Delirium Die
-- __Delirium Die__
+- __Delirium Die__ [_Delirium_]
   - The Delirium Die is a special die included in Ascension: Delirium. At any point during a player's turn, they may pay 5 Insight to roll the die and gain whatever is rolled on the die. The six possible rewards are:
     - You may banish a card in your hand or discard pile
     - Draw two cards
@@ -76,19 +81,19 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Move an unplayed card in your hand to your discard pile.
 - __Discard Pile__ (_card pile_)
   - A set of cards which have already been played by a player. When the draw pile is empty, and a draw is attempted, the discard pile is shuffled and moved to the draw pile.
-- __Dreambind__ (_keyword_)
+- __Dreambind__ (_keyword_) [_Dreamscape_]
   - Monsters with the Dreambind keyword can be acquired when a player defeats them by paying the Insight cost listed after “Dreambind”. When a player Dreambinds a Monster, it goes to their discard pile. Dreambind Monsters give their Reward when played from hand.
 - __Draw__ (_action_)
   - Moving the top card of a player's draw pile to that player's hand.
 - __Draw Pile__ (_card pile_)
   - When a player draws a card, it is taken from the top of their draw pile. At the beginning of the game, a player's deck makes up the entire draw pile. Throughout the game, cards from a player's deck will either be in the Draw Pile, the Discard Pile, or in Hand.
-- __Dream Card__
+- __Dream Card__ [_Dreamscape_]
   - A special card obtained from the Dream Deck. Dream Cards have golden borders.
-- __Dream Deck__
+- __Dream Deck__ [_Dreamscape_]
   - A special deck from which Dreamscape cards are drawn.
-- __Dreamborn__ (_faction_)
+- __Dreamborn__ (_faction_) [_Dreamscape_]
     - Dreamborn cards can be identified by their gold Dreamborn card frame__ (_see Stone Artificers card frame_). When a Dreamborn card enters the center row, EACH player gains 1 Insight. Additionally, when a player acquires a Dreamborn card, ONLY THAT player gains 1 Insight.
-- __Dreamscape__
+- __Dreamscape__ [_Dreamscape_]
   - A hidden set of cards players have access to during the game. Unlike center row cards, each player's Dreamscape cards are purchasable only by that player. These cards are purchasable during the game with Insight.
 - __Dreamscape__ (_expansion_)
   - _Endless possibilities await..._
@@ -96,9 +101,9 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Insight
   - Dreamborn Cards
   - Vision Cards
-- __Dual Cost Card__
+- __Dual Cost Card__ [_War of Shadows_]
   - A card which has both a Rune and a Power cost. These are either hero or construct cards.
-- __Echo__ (_keyword_)
+- __Echo__ (_keyword_) [_Valley of the Ancients_]
   - Cards with Echo have additional effects that occur if the player has cards in their discard pile that share the same faction as the Echo card.
 - __Effect__
   - The actions/result performed/gained from playing a card or defeating a monster. Card effects are described on each card.
@@ -108,12 +113,11 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
     2. Any effects from your cards take place.
     3. Monster rewards are collected.
     4. Dreamborn and Fate effects. If multiple Dreamborn and Fate effects occur at the same time (typically at the start of the game), they resolve in the order that they were flipped from the center deck.
-  
-- __Empowered__ (_keyword_)
+- __Empowered__ (_keyword_) [_Gift of the Elements_]
   - Cards with the Empowered keyword allow the player acquiring them to banish a card that they have played that turn as part of their acquisition.
-- __Energize__ (_keyword_)
+- __Energize__ (_keyword_) [_Rise of Vigil, Darkness Unleashed_]
   - Cards with Energize have additional effects if you've gained enough Energy on the turn you use them. Multiple Energize cards can be activated with the same Energy, since Energy is not spent.
-- __Energy__ (_resource_)
+- __Energy__ (_resource_) [_Rise of Vigil, Darkness Unleashed_]
   - (_Depicted by a blue/electric square icon_) Energy is a threshold resource used to activate additional effects on cards with Energize.
 - __Enlightened__ (_faction_)
   - Enlightened cards tend to provide card draw, and provide effects which help defeat and acquire cards in the center row (without paying Power or Runes).
@@ -121,12 +125,17 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Events represent global effects that change the power structure of the world, and change the rules of the game for all players for as long as they remain in play.
 - __Event__ (_card_)
   - A special type of card which is in play when an Event is active. The Event card describes the event.
+- __Event Trophy__ (_keyword_)
+  - Event cards will sometimes possess an Event Trophy. an Event Trophy is an action/effect which takes place when a player triggers the Event Trophy (typically by banishing a Fanatic).
 - __Expansion__
   - The game Ascension has multiple expansions. Expansions can be combined arbitrarily to create interesting game play scenarios.
 - __Faction__
   - A hero, monster, or construct, may belong to a particular faction. Many cards provide bonuses related to particular card factions. Factions include Mechana, Lifebound, Enlightened, Void, and Dreamborn.
 - __Faction Monster__ (_card_)
   - A Monster which has a Faction, which can cause interaction with other effects such as Rally when the Monster is defeated.
+- __Fanatic__ (_monster_) [_Storm of Souls_]
+  - An Always Available Monster. The Fanatic is a Trophy Monster with a variable reward based on the current Event called an Event Trophy. You may have no more than one Fanatic Trophy at any time. If you defeat a Fanatic while you already have a Trophy from one, you gain the Honor reward but do not get another Trophy.
+  - Fanatic is returned to the Always Available Zone when banished. It never goes to the Void.
 - __Fate__ (_keyword_)
   - Fate effects take place when a card enters the center row.
 - __Fate Auction__ (_keyword_)
@@ -165,10 +174,10 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
       - If you already control the Temple of Life, gain control of the Temple of Immortality and gain 2 Runes.
       - If you already control the Temple of Life and the Temple of Immortality, gain 2 runes.
 - __Keyword__
-  - A singular word which appears on a card which has a special definition/effect.
+  - A singular word (or sometimes a phrase) which appears on a card which has a special definition/effect.
 - __Lifebound__ (_faction_)
   - Lifebound cards tends to provide Runes and Honor, and utilize Unite heavily.
-- __Light Card__
+- __Light Card__ (_War of Shadows_)
   - Cards with a sun icon in the upper right hand corner. Gains a bonus if it is currently Day.
 - __Mechana__ (_faction_)
   - Construct-heavy. Constructs tend to have very high Honor value. Mechana heroes tend to gain bonuses related to constructs which are in play.
@@ -180,9 +189,9 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - A multifaction card has two factions simultaneously. It will operate as both factions, interacting with effects related to either faction.
 - __Name__
   - The name of a card. Indicated on the top of a card. Some cards interact with other cards with specific names.
-- __Night__
+- __Night__ (_War of Shadows_)
   - A global game state which can affect Dark cards. If there are more Dark cards in the center row than there are Light cards, then it is Night.
-- __Night__ (_keyword_)
+- __Night__ (_keyword, War of Shadows_)
   - Gain the Night effect if it is currently Night.
 - __Ongoing__ (_keyword_)
   - After a card with Ongoing is acquired or defeated, it remains in front of you and its effect is permanent unless banished.
@@ -194,7 +203,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
 - __Portal__ (_card_)
   - A special card type which can appear in the center row. Acquiring a Portal causes cards to be drawn from the center deck until a Hero or Construct of greater value to the Portal is drawn (within 2 Runes). This card is then acquired by the player.
 - __Portal Deck__ (_card pile_)
-  - Another name for the Center Deck. The term Portal Deck appears in one section of the _Storm of Souls_ rulebook, but this rulebook uses the term Center Deck elsewhere. The term Portal Deck is not seen anywhere else throughout the game/expansions. The term Portal also has another meaning (a card type). Its possible that the usage of Portal Deck in the _Storm of Souls_ rulebook is a typo.
+  - Another name for the Center Deck. The term Portal Deck appears in one section of the _Storm of Souls_ rulebook, while this rulebook uses the term Center Deck elsewhere. The term Portal Deck is not seen elsewhere throughout the game/expansions. The term Portal also has another meaning (a card type).
 - __Power__ (_resource_)
   - (_Depicted by a red circular icon containing a sword_) Power is one of the two main resources in the world of Ascension. Power is used to defeat Monsters and earn rewards.
 - __Promo Pack 1__ (_expansion_)
@@ -255,7 +264,11 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Soul Gems represent the spirits of heroes who fought against Samael in the Great War who were trapped by Kythis when he took control of the Well of souls. Each Soul Gem shares the art and effect of Heroes from previous Ascenion sets, though they are not Hero card themselves.
   - Soul Gems are not shuffled into the center deck at the beginning of the game. Instead, they are shuffled together and set aside face down with the Always Available cards. When a card effect tells a player to gain a Soul Gem, that player may play that Soul Gem to gain its effect at any time during that turn. At the end of a player's turn, all Soul Gems he or she controls are banished.
 - __Storm of Souls__ (_expansion_)
-  - A game expansion.
+  - _The storm looms. Who among you will stand before it?_
+  - Events
+  - Trophy
+  - Fanatic
+  - Destroy
 - __Team Play__ (_game variation_)
   - A game variation featuring two teams of two players (_four players total_).
 - __Temple__

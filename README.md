@@ -110,7 +110,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Cards with Echo have additional effects that occur if the player has cards in their discard pile that share the same faction as the Echo card.
 - __Effect__
   - The actions/result performed/gained from playing a card or defeating a monster. Card effects are described on each card.
-- __Effect Orders__ (_mechanics_)
+- __Effect Orders__ (:gear: _mechanics_)
   - When an action in the game results in multiple effects happening simultaneously, this is the order in which effects should be resolved:
     1. Any cards that have left the center row are replaced by the top card of the center deck.
     2. Any effects from your cards take place.
@@ -262,7 +262,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Thukal, The Kraken
   - Raiding
   - Treasure
-- __Solitaire__ (_game variation_)
+- __Solitaire__ (:arrows_counterclockwise: _game variation_)
   - A single-player game variation.
 - __Soul Gem__ (:black_joker: _card_) [_Immortal Heroes_]
   - Soul Gems represent the spirits of heroes who fought against Samael in the Great War who were trapped by Kythis when he took control of the Well of souls. Each Soul Gem shares the art and effect of Heroes from previous Ascenion sets, though they are not Hero card themselves.
@@ -273,7 +273,7 @@ A master glossary for the card game, Ascension. Includes mechanics from all expa
   - Trophy
   - Fanatic
   - Destroy
-- __Team Play__ (_game variation_)
+- __Team Play__ (:arrows_counterclockwise: _game variation_)
   - A game variation featuring two teams of two players (_four players total_).
 - __Temple__ (:black_joker: _card_) [_Valley of the Ancients_]
   - When the game starts, place all three Temples below the center row, out of any player's control. To gain control of the Temple of Life, a player must spend a Life Keystone, and to gain control of the Temple of Death, a player must spend a Death Keystone. You can only gain control of the Temple of Immortality by using the abilities of the Temple of Life or the Temple of Death. You may still maintain control of the Temple of Immortality even if you lose control of the other Temples.
